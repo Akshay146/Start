@@ -1,3 +1,4 @@
+#program to find a number is prime or not
 n=int(input())
 flag=False
 if n>1:
