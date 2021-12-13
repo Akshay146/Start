@@ -1,4 +1,4 @@
-#strong number
+#strong number program in python.
 # Variable to store sum of the numbers  
 sum=0  
 num=int(input("Enter a number:"))
